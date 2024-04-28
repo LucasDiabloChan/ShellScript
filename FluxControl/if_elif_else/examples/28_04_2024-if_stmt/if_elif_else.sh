@@ -2,7 +2,7 @@
 
 # Author: asher_ren
 # Date: 28/04/2005
-# Description: use of 'if' statement in ShellScript
+# Description: use of 'if/elif/else' statement in ShellScript
 
 number_1=100
 number_2=100
